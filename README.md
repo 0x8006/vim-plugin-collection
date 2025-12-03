@@ -8,6 +8,7 @@
 
 ### syntax 
 - [nim.vim](https://github.com/zah/nim.vim)
+- [syntastic](https://github.com/vim-syntastic/syntastic)
 
 ### reference
 - [dictionary.vim](https://github.com/itchyny/dictionary.vim)
@@ -18,12 +19,21 @@
 
 - [html5.vim](https://github.com/othree/html5.vim)
 
+### ui
 - [nerdtree](https://github.com/preservim/nerdtree) a vscode-like sidebar
-- [vCoolor](https://github.com/KabbAmine/vCoolor.vim) a color picker 
+- [vCoolor](https://github.com/KabbAmine/vCoolor.vim) a color picker
+- [undotree](https://github.com/mbbill/undotree)
+- [vim-sidebar-manager](https://github.com/brglng/vim-sidebar-manager)
+
+### theme
+- [Dark-Vimwiki-Template](https://github.com/rahul13ramesh/Dark-Vimwiki-Template)
+
+### others
+
 - [lightline](https://github.com/itchyny/lightline.vim)
 - [gruvbox](https://github.com/morhetz/gruvbox)
-- [syntastic](https://github.com/vim-syntastic/syntastic)
-- [undotree](https://github.com/mbbill/undotree)
+
+
 - [vimspector](https://github.com/puremourning/vimspector)
 - [space-vim](https://github.com/liuchengxu/space-vim)
 - [vim-signify](https://github.com/mhinz/vim-signify)
@@ -35,7 +45,7 @@
 - [lexima.vim](https://github.com/cohama/lexima.vim)
 - [vim-speeddating](https://github.com/tpope/vim-speeddating)
 - [vim-mucomplete](https://github.com/lifepillar/vim-mucomplete)
-- [vim-sidebar-manager](https://github.com/brglng/vim-sidebar-manager)
+
 - [vim-snake](https://github.com/zyedidia/vim-snake)
 - [vim-ada](https://github.com/krischik/vim-ada)
 - [fem-vim](https://github.com/ThePrimeagen/fem-vim)
@@ -45,10 +55,6 @@
 - [jupter-vim](https://github.com/jupyter-vim/jupyter-vim)
 - [vim-dirtytalk](https://github.com/psliwka/vim-dirtytalk)
 
-### theme
-- [Dark-Vimwiki-Template](https://github.com/rahul13ramesh/Dark-Vimwiki-Template)
-
-
 ---
 </details>
 
@@ -57,11 +63,14 @@
 ### setup
 
 - [LazyVim](https://github.com/LazyVim/LazyVim)
+- [coc-explorer](https://github.com/weirongxu/coc-explorer)
+- [vim-plug](https://github.com/junegunn/vim-plug)
+- [coc.nvim](https://github.com/neoclide/coc.nvim)
 
-- https://github.com/junegunn/vim-plug
-- https://github.com/neoclide/coc.nvim
-- https://github.com/folke/tokyonight.nvim
-- https://github.com/romgrk/barbar.nvim
-- https://github.com/weirongxu/coc-explorer
+### themes
+- [tokyonight.nvim](https://github.com/folke/tokyonight.nvim)
+
+### others
+- [barbar.nvim](https://github.com/romgrk/barbar.nvim)
 
 </details>
